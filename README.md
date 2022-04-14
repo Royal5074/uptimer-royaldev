@@ -53,7 +53,7 @@ Required Tools: Node.js >= 14, git and pm2.
 # Update your npm to the latest version
 npm install npm -g
 
-git clone https://github.com/louislam/uptime-kuma.git
+git clone https://github.com/Royal5074/uptimer-royaldev.git
 cd uptime-kuma
 npm run setup
 
@@ -71,23 +71,23 @@ Browse to http://localhost:3001 after starting.
 
 If you need more options or need to browse via a reverse proxy, please read:
 
-https://github.com/louislam/uptime-kuma/wiki/%F0%9F%94%A7-How-to-Install
+https://github.com/Royal5074/uptimer-royaldev/wiki/%F0%9F%94%A7-How-to-Install
 
 ## 🆙 How to Update
 
 Please read:
 
-https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update
+https://github.com/Royal5074/uptimer-royaldev/wiki/%F0%9F%86%99-How-to-Update
 
 ## 🆕 What's Next?
 
 I will mark requests/issues to the next milestone.
 
-https://github.com/louislam/uptime-kuma/milestones
+https://github.com/Royal5074/uptimer-royaldev/milestones
 
 Project Plan:
 
-https://github.com/louislam/uptime-kuma/projects/1
+https://github.com/Royal5074/uptimer-royaldev/projects/1
 
 ## 🖼 More Screenshots
 
